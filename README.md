@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Viliam</h1>
 <h3 align="center">A student of applied informatics at FEI STU</h3>
 
-- 🌱 I’m currently learning **React**
+- Learning **React**
 
-- 📫 How to reach me **rideky.viliam@gmail.com**
+- 📫 **rideky.viliam@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
